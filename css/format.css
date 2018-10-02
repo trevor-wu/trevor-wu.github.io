@@ -5,6 +5,8 @@
   font-family: Helvetica, sans-serif;
   font-weight: normal;
   font-size: 60px;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 .form {
   font-family: Helvetica, sans-serif;
@@ -13,8 +15,30 @@
   padding-right: 50px;
   padding-bottom: 50px;
 }
+.hform {
+  font-family: Helvetica, sans-serif;
+  padding-top: 10px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
 .secondaryheader {
   font-family: Helvetica, sans-serif;
   font-weight: normal;
   font-size: 30px;
+}
+.linkbox{
+  float: left;
+  width: 100px;
+  padding: 10px;
+  height: 10px;
+}
+.bar{
+  content: "";
+  display: table;
+  clear: both;
+}
+.qualbox {
+  float: left;
+  width: 45%;
+  padding: 10px;
 }
