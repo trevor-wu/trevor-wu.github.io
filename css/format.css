@@ -1,3 +1,20 @@
-p.hv {
+.hv {
   font-family: Helvetica, sans-serif;
+}
+.unbold {
+  font-family: Helvetica, sans-serif;
+  font-weight: normal;
+  font-size: 60px;
+}
+.form {
+  font-family: Helvetica, sans-serif;
+  padding-top: 10px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+}
+.secondaryheader {
+  font-family: Helvetica, sans-serif;
+  font-weight: normal;
+  font-size: 30px;
 }
